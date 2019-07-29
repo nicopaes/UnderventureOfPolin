@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 7636739ea200f7843b081d4680321c0c
+timeCreated: 1492975136
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WINGLE SHEET_0
+    21300002: WINGLE SHEET_1
+    21300004: WINGLE SHEET_2
+    21300006: WINGLE SHEET_3
+    21300008: WINGLE SHEET_4
+    21300010: WINGLE SHEET_5
+    21300012: WINGLE SHEET_6
+    21300014: WINGLE SHEET_7
+    21300016: WINGLE SHEET_8
+    21300018: WINGLE SHEET_9
+    21300020: WINGLE SHEET_10
+    21300022: WINGLE SHEET_11
+    21300024: WINGLE SHEET_12
+    21300026: WINGLE SHEET_13
+    21300028: WINGLE SHEET_14
+    21300030: WINGLE SHEET_15
+    21300032: WINGLE SHEET_16
+    21300034: WINGLE SHEET_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WINGLE SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3351
+        width: 844
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 3312
+        width: 844
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 3331
+        width: 870
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 3317
+        width: 846
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2511
+        width: 822
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2536
+        width: 864
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2559
+        width: 909
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2549
+        width: 872
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1744
+        width: 835
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1759
+        width: 853
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1767
+        width: 870
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1767
+        width: 869
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 975
+        width: 862
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 975
+        width: 860
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 975
+        width: 854
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 975
+        width: 853
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 187
+        width: 846
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WINGLE SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 187
+        width: 843
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

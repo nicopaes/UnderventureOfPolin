@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: cc9aa3a865e834c6e888e18ffc6d0ff2
+timeCreated: 1492959116
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VL SHEET_0
+    21300002: VL SHEET_1
+    21300004: VL SHEET_2
+    21300006: VL SHEET_3
+    21300008: VL SHEET_4
+    21300010: VL SHEET_5
+    21300012: VL SHEET_6
+    21300014: VL SHEET_7
+    21300016: VL SHEET_8
+    21300018: VL SHEET_9
+    21300020: VL SHEET_10
+    21300022: VL SHEET_11
+    21300024: VL SHEET_12
+    21300026: VL SHEET_13
+    21300028: VL SHEET_14
+    21300030: VL SHEET_15
+    21300032: VL SHEET_16
+    21300034: VL SHEET_17
+    21300036: VL SHEET_18
+    21300038: VL SHEET_19
+    21300040: VL SHEET_20
+    21300042: VL SHEET_21
+    21300044: VL SHEET_22
+    21300046: VL SHEET_23
+    21300048: VL SHEET_24
+    21300050: VL SHEET_25
+    21300052: VL SHEET_26
+    21300054: VL SHEET_27
+    21300056: VL SHEET_28
+    21300058: VL SHEET_29
+    21300060: VL SHEET_30
+    21300062: VL SHEET_31
+    21300064: VL SHEET_32
+    21300066: VL SHEET_33
+    21300068: VL SHEET_34
+    21300070: VL SHEET_35
+    21300072: VL SHEET_36
+    21300074: VL SHEET_37
+    21300076: VL SHEET_38
+    21300078: VL SHEET_39
+    21300080: VL SHEET_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VL SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7374
+        width: 477
+        height: 595
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 7370
+        width: 482
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 7370
+        width: 472
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 7370
+        width: 471
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 7370
+        width: 471
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 7367
+        width: 480
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 7366
+        width: 481
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 7366
+        width: 470
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 7360
+        width: 468
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 7038
+        y: 7366
+        width: 466
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6346
+        width: 464
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 6346
+        width: 470
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 6346
+        width: 467
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 6342
+        width: 464
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 6336
+        width: 467
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 6342
+        width: 462
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 6336
+        width: 460
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 6342
+        width: 460
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 6338
+        width: 466
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 6338
+        width: 464
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5311
+        width: 456
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 5322
+        width: 456
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 5322
+        width: 464
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 5322
+        width: 466
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 5322
+        width: 467
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 5322
+        width: 469
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 5326
+        width: 460
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 5326
+        width: 466
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 5326
+        width: 467
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_29
+      rect:
+        serializedVersion: 2
+        x: 7038
+        y: 5326
+        width: 464
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4310
+        width: 470
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_31
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4310
+        width: 470
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_32
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4304
+        width: 466
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_33
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 4314
+        width: 468
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_34
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 4314
+        width: 468
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_35
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 4314
+        width: 475
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_36
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 4314
+        width: 480
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_37
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 4314
+        width: 471
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_38
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 4318
+        width: 472
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_39
+      rect:
+        serializedVersion: 2
+        x: 7034
+        y: 4318
+        width: 472
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VL SHEET_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3296
+        width: 480
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
